@@ -17,7 +17,7 @@ Failing to do so can cause the printer to move out-of-bounds.
 Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
 or manually using this URL:
 
-    https://github.com/lsellens/OctoPrint-3V2_Bed_Leveling/archive/master.zip
+    https://github.com/qzic/OctoPrint-3V2_Bed_Leveling/archive/master.zip
 
 ## Configuration
 
